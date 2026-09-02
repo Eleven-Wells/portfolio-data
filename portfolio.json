@@ -1,0 +1,33 @@
+{
+  "organization": {
+    "name": "Eleven Wells",
+    "email": "teamselevenwells@gmail.com",
+    "phoneNumber": "080774564321",
+    "location": "",
+    "instagram": "",
+    "facebook": "",
+    "X": "",
+    "youtube": ""
+  },
+  "team": [
+    {
+      "name": "Thabani Ndabambi",
+      "role": "Backend Developer",
+      "profilePicture": "",
+      "socials": {
+        "facebook": "",
+        "instagram": "",
+        "linkedIn": ""
+      }
+    },
+    {
+      "name": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Nook",
+      "description": ""
+    }
+  ]
+}
