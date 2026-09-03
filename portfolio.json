@@ -24,10 +24,12 @@
       "name": ""
     }
   ],
-  "projects": [
+  "products": [
     {
-      "name": "Nook",
-      "description": ""
+      "id": "paidink",
+      "name": "PAIDINK",
+      "tagline": "Read. Write. Engage.",
+      "href": "#work-archive"
     }
   ]
 }
